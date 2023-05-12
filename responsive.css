@@ -1,0 +1,20 @@
+@media (max-width:600px){
+    .container{
+        max-width: 80%;
+        /* margin: 300px; */
+        margin-top: 40%;
+    }
+    .addtask input{
+        font-size: 15px;
+    }
+    h1{
+        font-size: 15px;
+    }
+    ul li{
+        font-size: 12px;
+    }
+    li button{
+        font-size: 15px;
+    }
+
+}
